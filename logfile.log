@@ -1,0 +1,396 @@
+2018-11-08 17:31:39,896 INFO  [Log] **************************************************************************************** 
+2018-11-08 17:31:39,897 INFO  [Log] **************************************************************************************** 
+2018-11-08 17:31:39,897 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-08 17:31:39,897 INFO  [Log] **************************************************************************************** 
+2018-11-08 17:31:39,897 INFO  [Log] **************************************************************************************** 
+2018-11-08 17:31:40,401 INFO  [Log]  Excel sheet opened 
+2018-11-08 17:31:43,162 INFO  [Log] New driver instantiated 
+2018-11-08 17:31:43,166 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-08 17:31:45,331 INFO  [Log] Web application launched 
+2018-11-08 17:31:45,337 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-08 17:31:45,338 INFO  [Log] Password picked from Excel is welcome 
+2018-11-08 17:31:45,368 INFO  [Log] Username text box found 
+2018-11-08 17:31:45,430 INFO  [Log] Username entered in the Username text box 
+2018-11-08 17:31:45,443 INFO  [Log] Password text box found 
+2018-11-08 17:31:45,486 INFO  [Log] Password entered in the Password text box 
+2018-11-08 17:31:45,502 INFO  [Log] Submit button found 
+2018-11-08 17:31:46,582 INFO  [Log] Click action performed on Submit button 
+2018-11-08 17:31:46,612 INFO  [Log] Logout link element found 
+2018-11-08 17:31:46,854 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-08 17:31:47,465 INFO  [Log] Browser closed 
+2018-11-08 17:31:47,608 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-11-08 17:31:47,608 INFO  [Log] X 
+2018-11-08 17:31:47,608 INFO  [Log] X 
+2018-11-08 17:31:47,608 INFO  [Log] X 
+2018-11-08 17:31:47,608 INFO  [Log] X 
+2018-11-09 08:34:49,253 INFO  [Log] **************************************************************************************** 
+2018-11-09 08:34:49,254 INFO  [Log] **************************************************************************************** 
+2018-11-09 08:34:49,254 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 08:34:49,254 INFO  [Log] **************************************************************************************** 
+2018-11-09 08:34:49,254 INFO  [Log] **************************************************************************************** 
+2018-11-09 08:34:49,713 INFO  [Log]  Excel sheet opened 
+2018-11-09 08:34:52,437 INFO  [Log] New driver instantiated 
+2018-11-09 08:34:52,442 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 08:34:54,673 INFO  [Log] Web application launched 
+2018-11-09 08:34:54,679 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 08:34:54,679 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 08:34:54,711 INFO  [Log] Username text box found 
+2018-11-09 08:34:54,770 INFO  [Log] Username entered in the Username text box 
+2018-11-09 08:34:54,784 INFO  [Log] Password text box found 
+2018-11-09 08:34:54,820 INFO  [Log] Password entered in the Password text box 
+2018-11-09 08:34:54,833 INFO  [Log] Submit button found 
+2018-11-09 08:34:54,993 INFO  [Log] Click action performed on Submit button 
+2018-11-09 09:33:54,826 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:33:54,826 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:33:54,826 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 09:33:54,826 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:33:54,826 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:33:55,348 INFO  [Log]  Excel sheet opened 
+2018-11-09 09:33:58,080 INFO  [Log] New driver instantiated 
+2018-11-09 09:33:58,086 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 09:34:00,334 INFO  [Log] Web application launched 
+2018-11-09 09:34:00,340 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 09:34:00,340 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 09:34:00,402 INFO  [Log] Username text box found 
+2018-11-09 09:34:00,462 INFO  [Log] Username entered in the Username text box 
+2018-11-09 09:34:00,475 INFO  [Log] Password text box found 
+2018-11-09 09:34:00,514 INFO  [Log] Password entered in the Password text box 
+2018-11-09 09:34:00,528 INFO  [Log] Submit button found 
+2018-11-09 09:34:00,696 INFO  [Log] Click action performed on Submit button 
+2018-11-09 09:52:08,284 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:52:08,285 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:52:08,285 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 09:52:08,285 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:52:08,285 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:52:08,787 INFO  [Log]  Excel sheet opened 
+2018-11-09 09:52:11,541 INFO  [Log] New driver instantiated 
+2018-11-09 09:52:11,547 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 09:52:13,735 INFO  [Log] Web application launched 
+2018-11-09 09:52:13,741 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 09:52:13,741 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 09:52:13,785 INFO  [Log] Username text box found 
+2018-11-09 09:52:13,843 INFO  [Log] Username entered in the Username text box 
+2018-11-09 09:52:13,856 INFO  [Log] Password text box found 
+2018-11-09 09:52:13,894 INFO  [Log] Password entered in the Password text box 
+2018-11-09 09:52:13,908 INFO  [Log] Submit button found 
+2018-11-09 09:52:14,074 INFO  [Log] Click action performed on Submit button 
+2018-11-09 09:53:47,705 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:53:47,705 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:53:47,705 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 09:53:47,705 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:53:47,705 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:53:48,171 INFO  [Log]  Excel sheet opened 
+2018-11-09 09:53:50,887 INFO  [Log] New driver instantiated 
+2018-11-09 09:53:50,893 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 09:53:53,160 INFO  [Log] Web application launched 
+2018-11-09 09:53:53,165 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 09:53:53,165 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 09:53:53,201 INFO  [Log] Username text box found 
+2018-11-09 09:53:53,263 INFO  [Log] Username entered in the Username text box 
+2018-11-09 09:53:53,276 INFO  [Log] Password text box found 
+2018-11-09 09:53:53,313 INFO  [Log] Password entered in the Password text box 
+2018-11-09 09:53:53,328 INFO  [Log] Submit button found 
+2018-11-09 09:53:53,481 INFO  [Log] Click action performed on Submit button 
+2018-11-09 09:54:55,921 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:54:55,922 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:54:55,922 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 09:54:55,922 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:54:55,922 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:54:56,384 INFO  [Log]  Excel sheet opened 
+2018-11-09 09:54:59,161 INFO  [Log] New driver instantiated 
+2018-11-09 09:54:59,166 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 09:55:01,412 INFO  [Log] Web application launched 
+2018-11-09 09:55:01,419 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 09:55:01,419 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 09:55:01,475 INFO  [Log] Username text box found 
+2018-11-09 09:55:01,533 INFO  [Log] Username entered in the Username text box 
+2018-11-09 09:55:01,547 INFO  [Log] Password text box found 
+2018-11-09 09:55:01,581 INFO  [Log] Password entered in the Password text box 
+2018-11-09 09:55:01,596 INFO  [Log] Submit button found 
+2018-11-09 09:55:01,766 INFO  [Log] Click action performed on Submit button 
+2018-11-09 09:56:52,278 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:56:52,278 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:56:52,278 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 09:56:52,278 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:56:52,278 INFO  [Log] **************************************************************************************** 
+2018-11-09 09:56:52,789 INFO  [Log]  Excel sheet opened 
+2018-11-09 09:56:55,521 INFO  [Log] New driver instantiated 
+2018-11-09 09:56:55,527 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 09:56:57,699 INFO  [Log] Web application launched 
+2018-11-09 09:56:57,705 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 09:56:57,705 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 09:56:57,761 INFO  [Log] Username text box found 
+2018-11-09 09:56:57,835 INFO  [Log] Username entered in the Username text box 
+2018-11-09 09:56:57,849 INFO  [Log] Password text box found 
+2018-11-09 09:56:57,890 INFO  [Log] Password entered in the Password text box 
+2018-11-09 09:56:57,904 INFO  [Log] Submit button found 
+2018-11-09 09:56:58,075 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:29:25,681 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:25,682 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:25,682 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:29:25,682 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:25,682 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:26,175 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:29:28,908 INFO  [Log] New driver instantiated 
+2018-11-09 10:29:28,915 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:29:31,237 INFO  [Log] Web application launched 
+2018-11-09 10:29:31,250 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:29:31,251 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:29:31,275 INFO  [Log] Username text box found 
+2018-11-09 10:29:31,339 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:29:31,353 INFO  [Log] Password text box found 
+2018-11-09 10:29:31,388 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:29:31,403 INFO  [Log] Submit button found 
+2018-11-09 10:29:31,586 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:29:39,024 INFO  [Log] Logout link element found 
+2018-11-09 10:29:54,758 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:54,758 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:54,758 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:29:54,758 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:54,758 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:29:55,249 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:29:57,978 INFO  [Log] New driver instantiated 
+2018-11-09 10:29:57,983 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:30:00,197 INFO  [Log] Web application launched 
+2018-11-09 10:30:00,205 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:30:00,205 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:30:00,241 INFO  [Log] Username text box found 
+2018-11-09 10:30:00,302 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:30:00,315 INFO  [Log] Password text box found 
+2018-11-09 10:30:00,353 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:30:00,369 INFO  [Log] Submit button found 
+2018-11-09 10:30:00,549 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:30:52,366 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:30:52,366 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:30:52,366 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:30:52,366 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:30:52,367 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:30:52,858 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:30:55,595 INFO  [Log] New driver instantiated 
+2018-11-09 10:30:55,600 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:30:57,836 INFO  [Log] Web application launched 
+2018-11-09 10:30:57,845 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:30:57,846 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:30:57,874 INFO  [Log] Username text box found 
+2018-11-09 10:30:57,942 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:30:57,955 INFO  [Log] Password text box found 
+2018-11-09 10:30:57,990 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:30:58,003 INFO  [Log] Submit button found 
+2018-11-09 10:30:58,187 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:38:20,994 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:38:20,994 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:38:20,994 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:38:20,994 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:38:20,994 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:38:21,483 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:38:24,240 INFO  [Log] New driver instantiated 
+2018-11-09 10:38:24,246 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:38:26,455 INFO  [Log] Web application launched 
+2018-11-09 10:38:26,462 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:38:26,462 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:38:26,497 INFO  [Log] Username text box found 
+2018-11-09 10:38:26,555 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:38:26,569 INFO  [Log] Password text box found 
+2018-11-09 10:38:26,606 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:38:26,622 INFO  [Log] Submit button found 
+2018-11-09 10:38:26,795 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:40:25,556 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:40:25,556 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:40:25,556 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:40:25,556 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:40:25,556 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:40:26,070 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:40:28,766 INFO  [Log] New driver instantiated 
+2018-11-09 10:40:28,771 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:40:30,932 INFO  [Log] Web application launched 
+2018-11-09 10:40:30,942 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:40:30,942 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:40:30,990 INFO  [Log] Username text box found 
+2018-11-09 10:40:31,063 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:40:31,079 INFO  [Log] Password text box found 
+2018-11-09 10:40:31,123 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:40:31,144 INFO  [Log] Submit button found 
+2018-11-09 10:40:31,324 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:40:31,624 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 10:40:32,213 INFO  [Log] Browser closed 
+2018-11-09 10:40:32,213 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-11-09 10:40:32,213 INFO  [Log] X 
+2018-11-09 10:40:32,213 INFO  [Log] X 
+2018-11-09 10:40:32,213 INFO  [Log] X 
+2018-11-09 10:40:32,213 INFO  [Log] X 
+2018-11-09 10:52:00,115 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:52:00,115 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:52:00,115 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:52:00,115 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:52:00,115 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:52:00,655 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:52:03,211 INFO  [Log] New driver instantiated 
+2018-11-09 10:52:03,217 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:52:04,272 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:52:04,273 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:52:04,300 INFO  [Log] Username text box found 
+2018-11-09 10:52:04,367 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:52:04,381 INFO  [Log] Password text box found 
+2018-11-09 10:52:04,425 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:52:04,442 INFO  [Log] Submit button found 
+2018-11-09 10:52:04,618 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:52:04,919 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 10:52:05,508 INFO  [Log] Browser closed 
+2018-11-09 10:53:42,260 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:53:42,260 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:53:42,260 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 10:53:42,260 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:53:42,260 INFO  [Log] **************************************************************************************** 
+2018-11-09 10:53:42,691 INFO  [Log]  Excel sheet opened 
+2018-11-09 10:53:45,291 INFO  [Log] New driver instantiated 
+2018-11-09 10:53:45,296 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 10:53:46,418 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 10:53:46,418 INFO  [Log] Password picked from Excel is Pass 
+2018-11-09 10:53:46,437 INFO  [Log] Username text box found 
+2018-11-09 10:53:46,498 INFO  [Log] Username entered in the Username text box 
+2018-11-09 10:53:46,511 INFO  [Log] Password text box found 
+2018-11-09 10:53:46,547 INFO  [Log] Password entered in the Password text box 
+2018-11-09 10:53:46,565 INFO  [Log] Submit button found 
+2018-11-09 10:53:46,748 INFO  [Log] Click action performed on Submit button 
+2018-11-09 10:53:47,048 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 10:53:47,648 INFO  [Log] Browser closed 
+2018-11-09 10:53:47,649 INFO  [Log] Click action is perfomred on Log Out link 
+2018-11-09 11:01:35,508 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:01:35,509 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:01:35,509 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:01:35,509 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:01:35,509 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:01:35,981 INFO  [Log]  Excel sheet opened 
+2018-11-09 11:01:38,591 INFO  [Log] New driver instantiated 
+2018-11-09 11:01:38,596 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 11:01:39,690 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:01:39,690 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:01:39,714 INFO  [Log] Username text box found 
+2018-11-09 11:01:39,773 INFO  [Log] Username entered in the Username text box 
+2018-11-09 11:01:39,786 INFO  [Log] Password text box found 
+2018-11-09 11:01:39,826 INFO  [Log] Password entered in the Password text box 
+2018-11-09 11:01:39,842 INFO  [Log] Submit button found 
+2018-11-09 11:01:40,952 INFO  [Log] Click action performed on Submit button 
+2018-11-09 11:01:41,253 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 11:01:41,861 INFO  [Log] Browser closed 
+2018-11-09 11:03:04,735 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:03:04,736 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:03:04,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Selenium_Test_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:03:04,736 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:03:04,736 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:03:05,214 INFO  [Log]  Excel sheet opened 
+2018-11-09 11:03:07,832 INFO  [Log] New driver instantiated 
+2018-11-09 11:03:07,838 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 11:03:08,962 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:03:08,962 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:03:08,981 INFO  [Log] Username text box found 
+2018-11-09 11:03:09,043 INFO  [Log] Username entered in the Username text box 
+2018-11-09 11:03:09,056 INFO  [Log] Password text box found 
+2018-11-09 11:03:09,100 INFO  [Log] Password entered in the Password text box 
+2018-11-09 11:03:09,114 INFO  [Log] Submit button found 
+2018-11-09 11:03:10,321 INFO  [Log] Click action performed on Submit button 
+2018-11-09 11:03:10,621 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 11:03:10,682 INFO  [Log] Logout link element found 
+2018-11-09 11:03:10,920 INFO  [Log] Click action is perfomred on Log Out link 
+2018-11-09 11:03:11,513 INFO  [Log] Browser closed 
+2018-11-09 11:24:07,223 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:07,223 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:07,223 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:24:07,223 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:07,223 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:07,701 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:24:07,702 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:24:56,710 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:56,710 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:56,710 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:24:56,710 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:56,710 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:24:57,171 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:24:57,171 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:29:40,122 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:29:40,123 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:29:40,123 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:29:40,123 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:29:40,123 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:29:40,590 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:29:40,590 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:32:33,206 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:32:33,207 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:32:33,207 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:32:33,207 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:32:33,207 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:32:33,669 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:32:33,669 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:33:00,798 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:33:00,799 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:33:00,799 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:33:00,799 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:33:00,799 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:33:01,281 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:33:01,281 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:33:01,287 INFO  [Log] Browser closed 
+2018-11-09 11:36:44,684 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:36:44,685 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:36:44,685 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:36:44,685 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:36:44,685 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:36:45,130 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:36:45,130 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:36:45,136 INFO  [Log] Browser closed 
+2018-11-09 11:59:02,275 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:59:02,276 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:59:02,276 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 11:59:02,276 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:59:02,276 INFO  [Log] **************************************************************************************** 
+2018-11-09 11:59:05,309 INFO  [Log] New driver instantiated 
+2018-11-09 11:59:05,314 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 11:59:06,365 INFO  [Log] Web application launched successfully 
+2018-11-09 11:59:06,375 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 11:59:06,375 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 11:59:06,397 INFO  [Log] Username text box found 
+2018-11-09 11:59:06,462 INFO  [Log] Username entered in the Username text box 
+2018-11-09 11:59:06,476 INFO  [Log] Password text box found 
+2018-11-09 11:59:06,520 INFO  [Log] Password entered in the Password text box 
+2018-11-09 11:59:06,533 INFO  [Log] Submit button found 
+2018-11-09 11:59:07,744 INFO  [Log] Click action performed on Submit button 
+2018-11-09 11:59:08,099 INFO  [Log] Logout link element found 
+2018-11-09 11:59:08,364 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 11:59:08,368 INFO  [Log] Browser closed 
+2018-11-09 12:00:23,818 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:00:23,818 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:00:23,818 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 12:00:23,818 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:00:23,818 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:00:26,852 INFO  [Log] New driver instantiated 
+2018-11-09 12:00:26,858 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 12:00:27,907 INFO  [Log] Web application launched successfully 
+2018-11-09 12:00:27,913 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 12:00:27,913 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 12:00:27,938 INFO  [Log] Username text box found 
+2018-11-09 12:00:27,999 INFO  [Log] Username entered in the Username text box 
+2018-11-09 12:00:28,013 INFO  [Log] Password text box found 
+2018-11-09 12:00:28,056 INFO  [Log] Password entered in the Password text box 
+2018-11-09 12:00:28,072 INFO  [Log] Submit button found 
+2018-11-09 12:00:29,172 INFO  [Log] Click action performed on Submit button 
+2018-11-09 12:00:29,522 INFO  [Log] Logout link element found 
+2018-11-09 12:00:29,775 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 12:00:30,372 INFO  [Log] Browser closed 
+2018-11-09 12:02:22,258 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:02:22,259 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:02:22,259 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 UDF_TC       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-11-09 12:02:22,259 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:02:22,259 INFO  [Log] **************************************************************************************** 
+2018-11-09 12:02:25,325 INFO  [Log] New driver instantiated 
+2018-11-09 12:02:25,330 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-11-09 12:02:26,353 INFO  [Log] Web application launched successfully 
+2018-11-09 12:02:26,359 INFO  [Log] Username picked from Excel is role_operator 
+2018-11-09 12:02:26,359 INFO  [Log] Password picked from Excel is welcome 
+2018-11-09 12:02:26,384 INFO  [Log] Username text box found 
+2018-11-09 12:02:26,442 INFO  [Log] Username entered in the Username text box 
+2018-11-09 12:02:26,456 INFO  [Log] Password text box found 
+2018-11-09 12:02:26,492 INFO  [Log] Password entered in the Password text box 
+2018-11-09 12:02:26,507 INFO  [Log] Submit button found 
+2018-11-09 12:02:27,620 INFO  [Log] Click action performed on Submit button 
+2018-11-09 12:02:27,974 INFO  [Log] Logout link element found 
+2018-11-09 12:02:28,248 INFO  [Log] Click action performed on lnk_LogOut button 
+2018-11-09 12:02:28,840 INFO  [Log] Browser closed 
